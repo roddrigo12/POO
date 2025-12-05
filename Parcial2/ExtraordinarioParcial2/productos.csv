@@ -1,0 +1,9 @@
+tipo;codigo;nombre;precio_base;descripcion;stock_disponible;url_imagen;porcentaje_descuento;envio_gratis;costo_envio;direccion_tienda;tasa_impuesto
+O;P001;Auriculares Pro;25000;Auriculares con ANC;15;https://ejemplo.com/auriculares.jpg;10;No;1500;;
+O;P002;Teclado Mecanico;18000;Teclado RGB Switch Red;10;https://ejemplo.com/teclado.jpg;5;Si;0;;
+F;T001;"Monitor 24""";55000;Monitor IPS Full HD;5;;;;;Av. Rivadavia 1234, CABA;21
+F;T002;Impresora Laser;43000;Impresora monocromatica;4;;;;;Av. Belgrano 567, Cordoba;18
+O;P003;Mouse Gamer;12000;Mouse con 6 botones;20;https://ejemplo.com/mouse.jpg;15;Si;1200;;
+F;T003;Parlante Portatil;15000;Parlante Bluetooth recarg.;7;;;;;Calle San Juan 789, Rosario;21
+F;T004;Disco SSD 500GB;22000;SSD alta velocidad;6;;;;;Av. Corrientes 4321, CABA;10.5
+O;P004;Webcam HD;8500;Webcam 1080p;8;https://ejemplo.com/webcam.jpg;0;Si;0;;
