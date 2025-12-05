@@ -1,0 +1,1 @@
+Algunos finales anteriores resueltos
