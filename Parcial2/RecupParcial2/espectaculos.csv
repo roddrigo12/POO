@@ -1,0 +1,7 @@
+﻿tipo;nombre;fecha;precio_base;director;duracion;banda;cant_musicos
+O;Hamlet;1/8/2025;1500;Juan Pérez;120
+C;Los Autenticos Decadentes;2/8/2025;2000;;;LAD;12
+O;La Casa de Bernarda Alba;3/8/2025;1300;Laura Gómez;90
+C;Fito Paez;4/8/2025;2500;;;Fito Páez;8
+C;La Renga;5/8/2025;8000;;;La Renga;10
+O;Esperando la Carroza;6/8/2025;1400;Martín Torres;100
