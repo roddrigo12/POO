@@ -1,0 +1,7 @@
+tipo,marca,modelo,anio,capacidad,plazas,distancia,tarifa_base,tipo_servicio,turno,tipo_carroceria
+A,Mercedes,MB500,2018,45,50,120000,15000,turismo,noche
+A,Scania,CityTour,2020,50,52,95000,18000,interurbano,manana
+A,Volvo,UrbanMax,2017,48,50,105000,17000,turismo,tarde
+V,Toyota,Hiace,2019,12,12,80000,12000,,,minivan
+V,Renault,Trafic,2021,15,15,60000,13000,,,van
+V,Peugeot,Expert,2020,10,10,40000,12500,,,minivan
