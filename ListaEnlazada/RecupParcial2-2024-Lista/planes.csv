@@ -1,0 +1,7 @@
+tipo;nombre_compania;duracion_plan;cobertura_geografica;precio_base;tipo_llamadas;minutos;canales_nacionales;canales_internacionales
+M;Telecom;12;Nacional;4500;locales;500;;;
+M;Movistar;24;Internacional;7000;internacionales;300;;;
+M;Claro;6;Regional;3200;locales e internacionales;250;;;
+T;DirecTV;12;Nacional;5200;;;40;15
+T;Telecentro;6;Regional;4100;;;25;5
+T;Flow;18;Internacional;6100;;;30;12
